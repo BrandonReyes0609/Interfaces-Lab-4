@@ -7,5 +7,6 @@ public abstract class EjemploRadio implements IRadio {
         // Este es un ejemplo de constructor de una clase radio, es solo para facilitar
         // la calificada del auxiliar al no tener que cambiar también la forma de
         // creación del objeto.
+        //
     }
 }
